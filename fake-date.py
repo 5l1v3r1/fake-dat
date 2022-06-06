@@ -15,7 +15,7 @@ root.config(bg="#313654")
 
 tk.Label(root, text="Fake Data", fg="black", bg="#313654",font=("Arial", 25)).place(x=190, y=10)
 
-tk.Label(root, text="github :  https://github.com/rm-r4my", bg="#313654", fg="white", font=("Arial", 8)).place(x=370, y=630)
+tk.Label(root, text="github :  https://github.com/XDGER", bg="#313654", fg="white", font=("Arial", 8)).place(x=370, y=630)
 
 
 tk.Label(root, text="Enter Country for Fake Data  : ", fg="#31f3a8", bg="#313654").place(x=10, y=140)
